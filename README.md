@@ -39,7 +39,7 @@ The file can be divided into three sections:
 * The Authentication may fail if these information is configured incorrectly. So please cross check with the Idp
 
 
-## TESTING SSO using SAML in DDFS
+## Tesing SSO using SAML in DDFS
 
 1. Create an `okta` developer account at `https://developer.okta.com/signup/`
 2. You may follow this blog @ `https://developer.okta.com/blog/2017/03/16/spring-boot-saml` to create an application in okta IDP.
