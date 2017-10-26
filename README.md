@@ -47,4 +47,4 @@ The file can be divided into three sections:
 
 Feel Free to create an issue if you find any difficulty in implementing SSO
 
-#FAQs
+## FAQs
