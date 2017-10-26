@@ -3,7 +3,7 @@
 1. Enable SSO by Setting `IS_SSO_ENABLED = true ` in `Configuration.java`
 2. Copy the `onelogin.saml.properties` in `DDFS/resources` to `resources` in Current Project (say `KMRL`)
 
-##Before moving on...
+## Before moving on...
 
 * SP	: Service Provider 	-	The one which serve some service to the users	(eg: DDFS)
 * IDP	: Identity Provider 	-	The one which manage identity information	(ie. Okta)
